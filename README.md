@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chandru</h1>
 <h3 align="center">A 27y/o Software developer from India.</h3>
 
+- 🔭 I’m currently working on **MyNews**
+
+- 🌱 I’m currently learning **Postgres, ReactNative**
+
 - 📫 How to reach me **ch4ndru.13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
