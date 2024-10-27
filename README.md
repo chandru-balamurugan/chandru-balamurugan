@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MyNews**
 
-- 🌱 I’m currently learning **Postgres, ReactNative**
+- 🌱 I’m currently learning **Postgres, Kotlin Multi Platform, ReactNative**
 
 
 <h3 align="left">Connect with me:</h3>
