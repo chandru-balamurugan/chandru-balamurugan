@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chandru</h1>
-<h3 align="center">A 27y/o Software developer from India.</h3>
+<h1 align="center">Hello 👋, I'm Chandru</h1>
+<h3 align="center">A Software developer with over 4 years of experience dedicated to creating solutions that transform outdated methods into seamless mobile experiences. Highly proficient in both native Android and cross-platform mobile application development, with strong expertise in API development and database management. Proven track record of developing and deploying B2B and B2C applications across various sectors, including textile manufacturing, restaurants, weather forecasting, and retail.</h3>
 
 - 🔭 I’m currently working on **MyNews**
 
