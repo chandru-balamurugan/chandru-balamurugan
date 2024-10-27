@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Postgres, ReactNative**
 
-- 📫 How to reach me **ch4ndru.13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
