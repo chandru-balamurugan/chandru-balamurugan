@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Chandru</h1>
 <h1 align="center">Sorry all my repos are private!</h1>
-<h3 align="center">A Software developer with over 4 years of experience dedicated to creating solutions that transform outdated methods into seamless mobile experiences. Highly proficient in both native Android and cross-platform mobile application development, with strong expertise in API development and database management. Proven track record of developing and deploying B2B and B2C applications across various sectors, including textile manufacturing, restaurants, weather forecasting, and retail.</h3>
+<h3 align="center">A Software developer with over 5 years of experience dedicated to creating solutions that transform outdated methods into seamless digital experiences. Highly proficient in both cross-platform mobile and native android application development , with strong expertise in API development and database management. Proven track record of developing and deploying B2B and B2C applications across various sectors, including textile manufacturing, hospitality, weather forecasting, and retail.</h3>
 
 - 👉👉👉  Have a look at my website I'm currently wokring on **[chandru](https://chandru-balamurugan.github.io/)**
 - 🔭 Ongoing project **A Textile Erp- Mobile applicaton(admin module using Flutter) and Backend(admin and staff module using NodeJS)**
-- 🌱 Ongoing learning **Spring Boot, Postgres**
+- 🌱 Ongoing learning **Postgres, Vue**
 
 
 <h3 align="left">Connect with me:</h3>
