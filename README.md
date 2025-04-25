@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Chandru</h1>
-<h1 align="center">Sorry all my repos are private!</h1>
+<h1 align="center">Sorry most of my repos are private!</h1>
 <h3 align="center">A Software developer with over 5 years of experience dedicated to creating solutions that transform outdated methods into seamless digital experiences. Highly proficient in both cross-platform mobile and native android application development , with strong expertise in API development and database management. Proven track record of developing and deploying B2B and B2C applications across various sectors, including textile manufacturing, hospitality, weather forecasting, and retail.</h3>
 
 - 👉👉👉  Have a look at my website I'm currently wokring on **[chandru](https://chandru-balamurugan.github.io/)**
